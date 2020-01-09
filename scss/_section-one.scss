@@ -96,7 +96,7 @@ $dot-diameter: 13px;
 }
 
 .section-one {
-  padding: 4vh;
+  padding: 10vh 4vh;
   background: #abebc6;
   @include breakpoint(large) {
     padding: 12vh;

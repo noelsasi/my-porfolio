@@ -222,7 +222,7 @@ p {
 }
 
 .section-one {
-  padding: 4vh;
+  padding: 10vh 4vh;
   background: #abebc6;
 }
 
@@ -233,7 +233,7 @@ p {
 }
 
 .section-two {
-  padding: 4vh;
+  padding: 10vh 4vh;
   background: #d2b4de;
 }
 
@@ -248,7 +248,7 @@ p {
 }
 
 .section-three {
-  padding: 4vh;
+  padding: 10vh 4vh;
   background: #ddd;
 }
 
@@ -269,7 +269,7 @@ p {
 
 .section-four {
   background: #cadfdf;
-  padding: 4vh;
+  padding: 10vh 4vh;
 }
 
 @media screen and (min-width: 1025px) {
