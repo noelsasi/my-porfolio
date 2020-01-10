@@ -64,10 +64,12 @@ p {
 
 .sidebar {
   position: relative;
+  padding: 3rem 2rem !important;
 }
 
 @media screen and (min-width: 1025px) {
   .sidebar {
+    padding: 3rem !important;
     position: fixed;
   }
 }

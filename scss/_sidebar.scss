@@ -1,8 +1,9 @@
 .sidebar {
   position: relative;
-  // background: #abebc6;
+  padding: 3rem 2rem !important;
 
   @include breakpoint(large) {
+    padding: 3rem !important;
     position: fixed;
   }
   @include breakpoint(medium) {
